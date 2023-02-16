@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Text.RegularExpressions;
-
+// from https://github.com/khalidabuhakmeh/ConsoleTables
 namespace ConsoleTables
 {
     public class ConsoleTable
