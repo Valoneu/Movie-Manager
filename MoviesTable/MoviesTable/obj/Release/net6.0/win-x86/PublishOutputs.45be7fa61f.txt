@@ -1,0 +1,2 @@
+D:\Programs\MovieManager\Movie Manager.pdb
+D:\Programs\MovieManager\Movie Manager.exe
